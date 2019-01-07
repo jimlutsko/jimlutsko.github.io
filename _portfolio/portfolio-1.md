@@ -1,6 +1,6 @@
 ---
 title: "Classical density functional theory, unconstrained crystallization, and polymorphic behavior"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/crystallization.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/crystallization1.png'>"
 collection: portfolio
 ---
 
