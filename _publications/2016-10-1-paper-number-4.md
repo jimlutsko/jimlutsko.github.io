@@ -8,7 +8,7 @@ date: 2016-12-31
 paperurl: 'http://jimlutsko.github.io/files/paper1.pdf'
 citation: 'Dufty, J. W. and Lutsko, J. F. . &quot;Structure and Stability of Hydrodynamic Modes for Shear Flow.&quot; <i>Kinam</i>. 6; 169 (1985).'
 ---
-An early shear flow paper. 
+A later shear flow paper. 
 
 [Download paper here](http://jimlutsko.github.io/files/paper1.pdf)
 
