@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-=========
-My background is in nonequilibrium statistical mechanics and nowadays most of my time is spent on the study of crystallization and crystal growth. Previously, I have worked on non-classical diffusion, granular materials, symbolic learning, kinetic theory and the mechanical properties of solid interfaces. My work involves a combination of analytic theory, numerical analysis and computer simulation. My work is currently funded by the European Space Agency, via the Belgian Science Policy Office, and the EU Horizon 2020 program, via the [AMECRYS project](http://www.amecrys-project.eu). 
-
-Crystallization and crystal growth
-==================================
-
-Crystallization is a particularly complex example of the of more general phenomenon of nucleation: the fluctuation-driven transition from one metastable state to another, usually more stable, state via the formation of clusters. Small clusters are unstable and tend to dissipate but if, by chance, one grows sufficiently large it is thermodynamically driven to continue to grow and fluctuations are no longer necessary. Thus, crystal nucleation and crystal growth are two parts of the process of creating crystals. 
-
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
