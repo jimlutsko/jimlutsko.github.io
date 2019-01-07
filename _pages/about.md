@@ -18,7 +18,7 @@ Crystallization and crystal growth
 
 Crystallization is a particularly complex example of the of more general phenomenon of nucleation: the fluctuation-driven transition from one metastable state to another, usually more stable, state via the formation of clusters. Small clusters are unstable and tend to dissipate but if, by chance, one grows sufficiently large it is thermodynamically driven to continue to grow and fluctuations are no longer necessary. Thus, crystal nucleation and crystal growth are two parts of the process of creating crystals. 
 
-My Opensource Project
+My Open source Project
 ======================
 My work makes extensive use of classical Density Functional Theory. The codes I have developed for doing cDFT calculations, including crystallization, are available for download from [this link](https://jimlutsko.github.io/classicalDFT). 
 
