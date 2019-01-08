@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hompage of James F. Lutsko"
+title                    : "James F. Lutsko"
 title_separator          : "-"
 name                     : &name "Jim Lutsko"
 description              : &description "personal description"
