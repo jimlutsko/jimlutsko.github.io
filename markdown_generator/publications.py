@@ -68,8 +68,15 @@ for row, item in publications.iterrows():
     html_filename = str(item.url_slug)
     
     ## YAML variables
+
+    md = "---\ntitle: ";
     
-    md = "---\ntitle: \"["   + str(item.url_slug) + "] " + item.title + '"\n'
+    if item.url_slug < 100:
+        md += "\"[0"   + str(item.url_slug) + "] " + item.title + '"\n'
+        md_filename = "0" + md_filename
+        html_filename = "0" + html_filename
+    else:
+        md += "\"["   + str(item.url_slug) + "] " + item.title + '"\n'
     
     md += """collection: publications"""
     
