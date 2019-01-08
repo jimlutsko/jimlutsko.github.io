@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: "Solute particle near a nanopore: influence of size and surface properties on the solvent-mediated forces"
 excerpt: "Nanoscopic pores are used to attract macromolecules. <br/><img src='/images/Poly.png'>"
 collection: portfolio
 ---
