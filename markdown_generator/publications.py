@@ -76,7 +76,7 @@ for row, item in publications.iterrows():
     md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
+        md += "\npaperurl: 'http://jimlutsko.github.io/files/" + item.paper_url + "'"
     
     md += "\ncitation: '" + str(item.authors) + ", &quot;" + html_escape(item.title) + "&quot;, <i>" + str(item.Journal) + "</i>, <strong>" + str(int(item.Volume)) + "</strong>, " + str(int(item.Pages)) + " (" + str(item.Year)  + ")'"
     
@@ -86,7 +86,7 @@ for row, item in publications.iterrows():
     
     if len(str(item.excerpt)) > 5:
         md += "\nAbstract\n---\n" + html_escape(item.excerpt) + "\n"
-        
+
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
