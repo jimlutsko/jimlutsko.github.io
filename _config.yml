@@ -236,12 +236,12 @@ defaults:
   # _news
   - scope:
       path: ""
-      type: talks
+      type: portfolio
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-
+      comment: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
