@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In brief ...
-=============
-
-My background is in nonequilibrium statistical mechanics and nowadays most of my time is spent on the study of crystallization and crystal growth. Previously, I have worked on non-classical diffusion, granular materials, symbolic learning, kinetic theory and the mechanical properties of solid interfaces. My work involves a combination of analytic theory, numerical analysis and computer simulation. My work is currently funded by the European Space Agency, via the Belgian Science Policy Office, and the EU Horizon 2020 program, via the [AMECRYS project](http://www.amecrys-project.eu). 
+My background is in nonequilibrium statistical mechanics and nowadays most of my time is spent on the study of crystallization and crystal growth. Previously, I have worked on non-classical diffusion, granular materials, symbolic learning, kinetic theory and the mechanical properties of solid interfaces. My work involves a combination of analytic theory, numerical analysis and computer simulation and is currently funded by the European Space Agency, via the Belgian Science Policy Office, and the EU Horizon 2020 program, via the [AMECRYS project](http://www.amecrys-project.eu). 
 
 Crystallization and crystal growth
 ==================================
@@ -25,5 +22,5 @@ My work makes extensive use of classical Density Functional Theory. The codes I 
 
 
 Contact
-------
+------------
 I can be reached via email at jlutsko AT ub.ac.be as well as jim AT lutsko.com
