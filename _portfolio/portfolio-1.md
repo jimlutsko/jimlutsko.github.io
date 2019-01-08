@@ -1,6 +1,6 @@
 ---
 title: "Classical density functional theory, unconstrained crystallization, and polymorphic behavior"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/crystallization1.png'>"
+excerpt: "Classical DFT calculations of a liquid droplet attached to a wall. As the temperature is lowered, more and more structure develops until the droplet spontaneously crystallizes. <br/><img src='/images/crystallization1.png'>"
 collection: portfolio
 ---
 
