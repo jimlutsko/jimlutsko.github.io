@@ -1,0 +1,9 @@
+---
+title: "[nan] Stress and elastic constants in anisotropic solids: Molecular dynamics techniques"
+collection: publications
+permalink: /publication/nan
+citation: 'nan, &quot;Stress and elastic constants in anisotropic solids: Molecular dynamics techniques&quot;, <i>J. App. Phys.</i>, <strong>64</strong>, 1152 (1988)'
+---
+Abstract
+---
+The local stress tensor commonly used in statistical mechanics is cast in a form useful for molecular dynamics (MD) simulations. It is then used to derive fluctuation formulas for the local elastic constants of a system. The formulas are used in an MD measurement of the local elastic constants of an ideal crystal which are found to be in good agreement with the bulk elastic constants of the same system.
