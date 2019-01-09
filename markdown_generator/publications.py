@@ -73,13 +73,14 @@ for row, item in publications.iterrows():
 
     print item.url_slug, " ", item.title;
     
-    if item.url_slug < 100:
+    if item.url_slug < 10:
+        md += "\"[00"   + str(item.url_slug) + "] " + item.title + '"\n'
+        md_filename = "00" + md_filename
+    elif item.url_slug < 100:
         md += "\"[0"   + str(item.url_slug) + "] " + item.title + '"\n'
         md_filename = "0" + md_filename
         html_filename = "0" + html_filename
-    elif item.url_slug < 10:
-        md += "\"[00"   + str(item.url_slug) + "] " + item.title + '"\n'
-        md_filename = "00" + md_filename
+
         html_filename = "00" + html_filename
     else:        
         md += "\"["   + str(item.url_slug) + "] " + item.title + '"\n'
