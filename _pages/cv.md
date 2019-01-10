@@ -11,9 +11,11 @@ redirect_from:
 
 Address
 =======
-Center for Nonlinear Phenomena and Complex Systems </br>
-University Libre de Bruxelles</br>
-Campus Plaine, CP 231, 1050 Bruxelles, Belgium</br>
+Center for Nonlinear Phenomena and Complex Systems 
+
+University Libre de Bruxelles
+
+Campus Plaine, CP 231, 1050 Bruxelles, Belgium
 
 Education
 ======
