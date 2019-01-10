@@ -9,4 +9,3 @@ Nanoscale self-assembly is naturally subject to impediments at the nanoscale. Th
 Access the paper [here](/publication/097)
 <br/><br/>
 
-This work is a product of the [AMECRYS project](http://www.amecrys.eu)<img src='/images/amecrys_small.png'>: "Revolutionizing Downstream Processing of Monoclonal Antibodies by Continuuous Template-Assisted Membrane Crystallization"
