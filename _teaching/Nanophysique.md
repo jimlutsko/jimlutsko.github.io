@@ -25,6 +25,6 @@ Materials
 * Lecture 7: [Carbon Structures - part 2](/files/Nanophysique/lecture7.pdf) 	[Exercises](/files/Nanophysique/Exercises_Ch_5_bis.pdf)
 * Lecture 8: [DFT - part 1](/files/Nanophysique/lecture8.pdf) 			[Exercises](/files/Nanophysique/Exercises_Ch_6.pdf)
 * Lecture 9: [DFT - part 2](/files/Nanophysique/lecture9.pdf) 			[Exercises](/files/Nanophysique/Exercises_Ch_6_bis.pdf)
-* Lecture 10: [Flucutation Theorems](/files/Nanophysique/lecture10.pdf) 	[Exercises](/files/Nanophysique/Exercises_Ch_7_2018.pdf)
-* Lecture 11: [Stochastic Processes](/files/Nanophysique/lecture11.pdf) 	[Exercises](/files/Nanophysique/Exercises_Ch_8_2018.pdf)
+* Lecture 10: [Flucutation Theorems](/files/Nanophysique/lecture10.pdf) 	[Exercises](/files/Nanophysique/Exercises_Ch7_2018.pdf)
+* Lecture 11: [Stochastic Processes](/files/Nanophysique/lecture11.pdf) 	[Exercises](/files/Nanophysique/Exercises_Ch8_2018.pdf)
 * Lecture 12: [Mesoscopic Nucleation Theory](/files/Nanophysique/lecture12.pdf) 
