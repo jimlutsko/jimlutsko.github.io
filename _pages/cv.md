@@ -24,19 +24,13 @@ Libre de Bruxelles
 * 1989-1991: Chercheur, Université Libre de Bruxelles, Dept. of Physics
 * 1987-1989: Post-doc, Materials Science Division, Argonne National Laboratories
 * 1984-1987: Graduate Assistant, Dept. of Physics, Univ. of Fla.
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Distinctions
 ======
 * Invited speqker at 2019 Gordon Conference on Crystal Growth and Assembly
@@ -54,4 +48,13 @@ Distinctions
 * Invited speaker at Computer Simulation in Materials Science, NATO ASI Series., (Aussois, 1991)
 * Invited speaker at Symp. Atomistic Modelling in Material Science, ASM Mtg., (Chicago, 1988).
 * University of Florida Chapter Sigma Xi award for “Outstanding Research as a Graduate Student” (1986-1987)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
+
 
