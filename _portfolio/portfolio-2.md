@@ -1,6 +1,6 @@
 ---
 title: "Lattice induced crystallization of nanodroplets: the role of finite-size effects and substrate properties in controlling polymorphism"
-excerpt: "Freezing a nanodroplet deposited on a solid substrate leads to the formation of crystalline structures.. <br/><img src='/images/Nanoparticle.png'>"
+excerpt: "Freezing a nanodroplet deposited on a solid substrate leads to the formation of crystalline structures.. <br/><img src='/images/Poly.png'>"
 collection: portfolio
 ---
 
