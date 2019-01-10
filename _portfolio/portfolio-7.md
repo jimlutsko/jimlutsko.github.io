@@ -1,6 +1,6 @@
 ---
 title: "2-variable extension of classical nucleation theory."
-excerpt: "Mesoscopic Nucleation Theory is used to construct a two-variable theory of droplet muceation that reveals non-classical behavior. <br/><img src='/images/fe_surface.jpg'>"
+excerpt: "Mesoscopic Nucleation Theory is used to construct a two-variable theory of droplet muceation that reveals non-classical behavior. The figure shows the free energy surface for droplet nucleation with the horizontal and vertical axes being the cluster radius and the density inside the cluster, respectively. The line is the most likely path for droplet nucleation from an initial low-density vapor.<br/><img src='/images/fe_surface.jpg'>"
 collection: portfolio
 ---
 
