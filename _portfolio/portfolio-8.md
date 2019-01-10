@@ -1,6 +1,6 @@
 ---
 title: "The physical basis of step pinning."
-excerpt: "Step growth is governed by thermodynamics - not kinetics. <br/><img src='/images/snapshot.png'>"
+excerpt: "Step growth is governed by thermodynamics - not kinetics. <br/><img src='/images/snapshot.jpg'>"
 collection: portfolio
 ---
 
