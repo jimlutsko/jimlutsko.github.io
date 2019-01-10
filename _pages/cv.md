@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cirriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Address
+=======
+Center for Nonlinear Phenomena and Complex Systems </br>
+University Libre de Bruxelles</br>
+Campus Plaine, CP 231, 1050 Bruxelles, Belgium</br>
 
 Education
 ======
