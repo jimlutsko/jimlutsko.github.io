@@ -15,8 +15,8 @@ Introduction 1
 
 Materials
 ======
-* Lecture 1: [Overview of course](/files/Nanophysiquie/lecture1.pdf) 
-* Lecture 2: [Microscopy]  (/files/Nanophysiquie/lecture2.pdf) 
+* Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf) 
+* Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf) 
 
 Heading 3
 ======
