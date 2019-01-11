@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /portfolio/
+           
   - title: "Publications"
     url: /publications/
 
@@ -9,9 +12,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "News"
-    url: /portfolio/
-           
   - title: "CV"
     url: /cv/
     
