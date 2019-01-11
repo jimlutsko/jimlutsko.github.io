@@ -1,6 +1,6 @@
 ---
 title: "Mesoscopic Impurities Expose a Nucleation-Limited Regime of Crystal Growth"
-excerpt: "Step growth has both deterministic and stochastic regimes" <br/><img src='/images/afm_prl.png'>"
+excerpt: "Step growth has both deterministic and stochastic regimes <br/><img src='/images/afm_prl.png'>"
 collection: portfolio
 ---
 
