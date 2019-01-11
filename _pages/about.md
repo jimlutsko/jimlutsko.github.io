@@ -17,9 +17,9 @@ Crystallization is a particularly complex example of the of more general phenome
 
 ## Mesoscopic Nucleation Theory (MeNT)
 This is an approach to the understanding of nucleation that I have developed over the last several years. Cluster energetics are described using classical Density Functional Theory and fluctuation dynamics are modeled using fluctuating hydrodynamics. Of particular interest in my work is the _nucleation pathway_ which describes the different stages a cluster passes through before it reaches its final form: for example, crystal nucleation from a dilute solution might begin with the nucleation of a liquid droplet within which the actual crystal forms or it may form directly, in one go. One of the key ideas of my work is that the pathway can be identified as the _Most Likely Path_ determined from the fluctuation dynamics in a mathematically precise way. Finally, I have spent a lot of time showing that simplified models can be derived from this framework with the simplest ones corresponding to the standard description of nucleation called Classical Nucleation Theory. A summary of the relevant papers are:
-* Density Functional Theory background: [general](/files/00076) and improvements [needed for crystallization](/files/107).
+* Density Functional Theory background: [general](files/00076) and improvements [needed for crystallization](/files/107).
 * MeNT framework : [short summary](/files/00083) and a [longer version](/files/00084).
-* Application to liquid droplet nucleation: [importance of the pathway$½/files/00087), [nucleation in a finite volume](/files/00086)
+* Application to liquid droplet nucleation: [importance of the pathway](/files/00087), [nucleation in a finite volume](/files/00086)
 * Simplified models: [connection to CNT](/files/00091), [nucleation in a finite volume](/files/00098), a [two parameter generalization of CNT](/files/00099) and [a general framework for extending CNT](/files/106].
 
 ## Crystal Growth
