@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-[<img src='/images/liq_glass_crys_T04_1.png'>](/portfolio/portfolio-1)
+[<img src='/images/liq_glass_crys_T04_1.png'>](/portfolio/portfolio-9) [<img src='/images/smaller.gif'>] (porfolio/portfolio-10)
 
 My background is in nonequilibrium statistical mechanics and nowadays most of my time is spent on the study of crystallization and crystal growth. Previously, I have worked on non-classical diffusion, granular materials, symbolic learning, kinetic theory and the mechanical properties of solid interfaces. My work involves a combination of analytic theory, numerical analysis and computer simulation and is currently funded by the European Space Agency, via the Belgian Science Policy Office, and the EU Horizon 2020 program, via the [AMECRYS project](http://www.amecrys-project.eu). 
 
 
-
-
-
-# Current Projects  <img src='/images/smaller.gif'> 
+# Current Projects  
 
 ## In brief: Crystallization and crystal growth
 Crystallization is a particularly complex example of the more general phenomenon of nucleation: the fluctuation-driven transition from one metastable state to another, usually more stable, state via the formation of clusters. Small clusters form all the time due to thermal fluctuations and, once formed, they fluctuate in size but are generally unstable and tend to dissipate. If, by chance, one does happen to grow larger than a critical size,  then everything changes and the cluster will continue to grow forever and fluctuations no longer play the dominant role. Thus, the formation of crystals involves two complementary steps: fluctuation-driven crystal nucleation followed by determinisitic crystal growth. I study both processes.
