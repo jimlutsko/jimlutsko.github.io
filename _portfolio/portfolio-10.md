@@ -1,5 +1,5 @@
 ---
-title: "How crystals form: A theory of nucleation pathways""
+title: "How crystals form: A theory of nucleation pathways"
 excerpt: "A theory of nucleation that is able to predict nonclassical pathways and intermediates for crystallization is formulated. <br/><img src='/images/crystallization1.png'>"
 collection: portfolio
 ---
