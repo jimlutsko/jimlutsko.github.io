@@ -16,7 +16,9 @@ Locale: Campus Plaine, NO 2.N5.107A
 
 Materials
 ======
+
 # * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises_1.pdf)
+
 # * Lecture 2: [Microscopy - part 1](/files/Nanophysique/lecture2.pdf) [part 2](/files/Nanophysique/lecture2_bis.pdf)		[Exercises](/files/Nanophysique/Exercises_2.pdf)
 # * Lecture 3: [Clusters - part 1](/files/Nanophysique/lecture3.pdf)  		[Exercises](/files/Nanophysique/Exercises_3.pdf)
 # * Lecture 4: [Clusters - part 2](/files/Nanophysique/lecture3_bis.pdf) 		[Exercises](/files/Nanophysique/Exercises_3_bis.pdf)
