@@ -41,9 +41,11 @@ Teaching
 
 Distinctions
 ======
-* Invited speqker at 2019 Gordon Conference on Crystal Growth and Assembly
+* Co-organizer 2020 Solvay Workshop "Nucleation: multiple pathways multiple outcomes", Brussels.
+* Invited speaker at 2019 Gordon Conference on "Crystal Growth and Assembly". 
+* Co-organizer of 2019 CECAM workshop "Fundamentals of Density Functional Theory for T> 0 : Quantum meets Classical* Co-organizer CECAM workshop", Lausanne. 
 * PRE "Outstanding Referee", 2018
-* Invited speqker at 21st American Conference on Crystal Growth and Epitaxy (ACCGE-21) (Santa Fe, 2017)
+* Invited speaker at 21st American Conference on Crystal Growth and Epitaxy (ACCGE-21) (Santa Fe, 2017)
 * Invited speaker at Solvay Workshop on “Multiscale Modelling at the PCB (Physics, Chemistry, Biology) interface” (Brussels, 26-28 April, 2016).
 * Invited speaker at Franqui Symposium on “The Aggregation of Biological Molecules: how physical chemistry illuminates physiology and pathophysiology” (Brussels, 4-6 June, 2015).
 * Invited speaker at Solvay Workshop on “Directional Nucleation and Growth of Molecular Cyrstals” (Brussels, 2014).
