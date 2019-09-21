@@ -10,9 +10,9 @@ location: "Brussels, Belgium"
 
 2019-2020
 ---------
-Practique: to be decided
-Theory: Vendredi 14-16h
-Locale: Campus Plaine, NO 2.N5.107A
+Practique: to be decided  
+Theory: Vendredi 14-16h  
+Locale: Campus Plaine, NO 2.N5.107A  
 
 Materials
 ======
