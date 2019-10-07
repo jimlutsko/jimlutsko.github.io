@@ -21,3 +21,12 @@ Materials
 * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)	... [Exercises](/files/Nanophysique/Exercises2.pdf)
 * Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)	... [Exercises](/files/Nanophysique/Exercises3.pdf)
 
+References
+=============
+Course materials are taken from many sources. The following are useful but not obligatory for the course:
+* General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.
+
+* The standard elementrary source on carbon nanotubes: *Physical Properties of Carbon Nanotubes* , R. Saito, G. Dresselhaus and M. S. Dresselhaus, Imperial College Press.
+
+
+
