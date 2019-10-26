@@ -17,11 +17,12 @@ Locale: Campus Plaine, NO 2.N5.107A
 Materials
 ======
 
-* Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)	... [Exercises](/files/Nanophysique/Exercises1.pdf)
-* Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)	... [Exercises](/files/Nanophysique/Exercises2.pdf)
-* Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)	... [Exercises](/files/Nanophysique/Exercises3.pdf)
-* Lecture 4: [Crystal Growth](/files/Nanophysique/lecture4.pdf)	... [Exercises](/files/Nanophysique/Exercises4.pdf)
-* Lecture 5: [Carbon Structures](/files/Nanophysique/lecture5.pdf)	... [Exercises](/files/Nanophysique/Exercises5.pdf)
+* Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)... [Exercises](/files/Nanophysique/Exercises1.pdf)
+* Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)	   ... [Exercises](/files/Nanophysique/Exercises2.pdf)
+* Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)	   ... [Exercises](/files/Nanophysique/Exercises3.pdf)
+* Lecture 4: [Crystal Growth](/files/Nanophysique/lecture4.pdf)	   ... [Exercises](/files/Nanophysique/Exercises4.pdf)
+* Lecture 5: [Carbon Structures](/files/Nanophysique/lecture5.pdf)... [Exercises](/files/Nanophysique/Exercises5.pdf)
+* Lecture 6: [DFT: part 1](/files/Nanophysique/lecture6.pdf)  
 
 
 References
@@ -30,6 +31,14 @@ Course materials are taken from many sources. The following are useful but not o
 * General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.
 
 * The standard elementrary source on carbon nanotubes: *Physical Properties of Carbon Nanotubes* , R. Saito, G. Dresselhaus and M. S. Dresselhaus, Imperial College Press.
+
+* Ab Initio quantum mechanics: A good basic reference on more advanced chemical quantum mechanics: *Solid State Physics*, G. Grosso & G. P. Parrravicini, Acad. Press, 2000; also see *Intermediate Quantum Mechanics*, Hans Bethe et Roman Jackiw, 1982.
+
+* DFT: The Hohenberg-Kohn theorem : P. Hohenberg et W. Kohn, Phys. Rev. B 136, 864 (1964).
+
+* DFT: The Kohn-Sham approach: W. Kohn and L. J. Sham, Phys. Rev. 140, A 1133 (1965).
+
+
 
 
 
