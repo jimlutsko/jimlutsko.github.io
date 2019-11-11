@@ -40,7 +40,7 @@ Course materials are taken from many sources. The following are useful but not o
 
 * DFT: The Kohn-Sham approach: W. Kohn and L. J. Sham, Phys. Rev. 140, A 1133 (1965).
 
-* Classical DFT: [James F. Lutsko, Adv. Chem. Phys., 144, 1 (2010).](//files/Lutsko_DFT_Review.pdf)
+* Classical DFT: [J. F. Lutsko, Adv. Chem. Phys., 144, 1 (2010).](/files/Lutsko_DFT_Review.pdf)
 
 
 
