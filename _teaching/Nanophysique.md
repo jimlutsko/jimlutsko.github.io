@@ -24,6 +24,7 @@ Materials
 * Lecture 5: [Carbon Structures](/files/Nanophysique/lecture5.pdf)... [Exercises](/files/Nanophysique/Exercises5.pdf)
 * Lecture 6: [DFT: part 1](/files/Nanophysique/lecture6.pdf)      ... [Exercises](/files/Nanophysique/Exercises6.pdf)
 * Lecture 7: [DFT: part 2](/files/Nanophysique/lecture7.pdf)      ... [Exercises](/files/Nanophysique/Exercises7.pdf)
+* Lecture 8: [Fluctuation Theorems](/files/Nanophysique/lecture8.pdf)      ... [Exercises](/files/Nanophysique/Exercises8.pdf)
 
 
 
@@ -42,6 +43,9 @@ Course materials are taken from many sources. The following are useful but not o
 
 * Classical DFT: [J. F. Lutsko, Adv. Chem. Phys., 144, 1 (2010).](/files/Lutsko_DFT_Review.pdf)
 
+* Fluctuation Theorems: P. Gaspard, Physica A 369, 201-246 (2006). Also, original papers: R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007); Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001); D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008); D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante,
+Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,
+Nature 437 (8 September 2005) 231.
 
 
 
