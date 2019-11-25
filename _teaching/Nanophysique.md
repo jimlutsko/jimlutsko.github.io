@@ -25,6 +25,7 @@ Materials
 * Lecture 6: [DFT: part 1](/files/Nanophysique/lecture6.pdf)      ... [Exercises](/files/Nanophysique/Exercises6.pdf)
 * Lecture 7: [DFT: part 2](/files/Nanophysique/lecture7.pdf)      ... [Exercises](/files/Nanophysique/Exercises7.pdf)
 * Lecture 8: [Fluctuation Theorems](/files/Nanophysique/lecture8.pdf)      ... [Exercises](/files/Nanophysique/Exercises8.pdf)
+* Lecture 9: [Stochastic Descriptions](/files/Nanophysique/lecture9.pdf)      ... [Exercises](/files/Nanophysique/Exercises9.pdf)	
 
 
 
@@ -47,6 +48,10 @@ Course materials are taken from many sources. The following are useful but not o
 Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,
 Nature 437 (8 September 2005) 231.
 
+* Multiscale expansion: Jarzynski, PRL 71, 839 (1993); Servantie et Gaspard, PRL 91 185501 (2003).
 
+* Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.
+
+* Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982). 
 
 
