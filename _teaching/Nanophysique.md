@@ -27,7 +27,8 @@ Materials
 * Lecture 8: [Fluctuation Theorems](/files/Nanophysique/lecture8.pdf)      ... [Exercises](/files/Nanophysique/Exercises8.pdf)
 * Lecture 9: [Stochastic Descriptions](/files/Nanophysique/lecture9.pdf)      ... [Exercises](/files/Nanophysique/Exercises9.pdf)	
 * Lecture 10: [Proteins](/files/Nanophysique/lecture10.pdf)      ... [Exercises](/files/Nanophysique/Exercises10.pdf)	
-* Lecture 11: [MeNT](/files/Nanophysique/lecture11.pdf)      ... [Exercises](/files/Nanophysique/Exercises11.pdf)	
+* Lecture 11: [MeNT part 1](/files/Nanophysique/lecture11.pdf)      ... [Exercises](/files/Nanophysique/Exercises11.pdf)
+* Lecture 12: [MeNT part 2](/files/Nanophysique/lecture12.pdf)      ... No Exercises!  
 
 
 
