@@ -31,7 +31,7 @@ This work mostly involves kinetic Monte Carlo simulations of crystal growth with
 * [The intitial work on the CV threshold](/publication/00094)
 * [Long thin impurities](/publication/00097)
 * Macrosteps can grow even in the dead zone: see [this](/publication/102) and [this](/publication/110).
-* NEW 2020!! Molecular understanding of drug interactions suggests pathway to better malaria treatments. Certain malarial drugs work by inhibiting crystallization: [we show why two are not always better than one](/publication/112).</i>
+* NEW 2020!! Molecular understanding of drug interactions suggests pathway to better malaria treatments. Certain malarial drugs work by inhibiting crystallization: [we show why two are not always better than one](/publication/112).
 
 ## My Open source Project
 My work makes extensive use of classical Density Functional Theory. The codes I have developed for doing cDFT calculations, including crystallization, are available for download from [this link](https://jimlutsko.github.io/classicalDFT). 
