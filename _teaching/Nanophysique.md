@@ -17,18 +17,18 @@ Locale: Campus Plaine, NO 2.N5.107A
 Materials
 ======
 
-#<> * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)... [Exercises](/files/Nanophysique/Exercises1.pdf)
-#<> * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)	   ... [Exercises](/files/Nanophysique/Exercises2.pdf)
-#<> * Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)	   ... [Exercises](/files/Nanophysique/Exercises3.pdf)
-#<> * Lecture 4: [Crystal Growth](/files/Nanophysique/lecture4.pdf)	   ... [Exercises](/files/Nanophysique/Exercises4.pdf)
-#<> * Lecture 5: [Carbon Structures](/files/Nanophysique/lecture5.pdf)... [Exercises](/files/Nanophysique/Exercises5.pdf)
-#<> * Lecture 6: [DFT: part 1](/files/Nanophysique/lecture6.pdf)      ... [Exercises](/files/Nanophysique/Exercises6.pdf)
-#<> * Lecture 7: [DFT: part 2](/files/Nanophysique/lecture7.pdf)      ... [Exercises](/files/Nanophysique/Exercises7.pdf)
-#<> * Lecture 8: [Fluctuation Theorems](/files/Nanophysique/lecture8.pdf)      ... [Exercises](/files/Nanophysique/Exercises8.pdf)
-#<> * Lecture 9: [Stochastic Descriptions](/files/Nanophysique/lecture9.pdf)      ... [Exercises](/files/Nanophysique/Exercises9.pdf)	
-#<> * Lecture 10: [Proteins](/files/Nanophysique/lecture10.pdf)      ... [Exercises](/files/Nanophysique/Exercises10.pdf)	
-#<> * Lecture 11: [MeNT part 1](/files/Nanophysique/lecture11.pdf)      ... [Exercises](/files/Nanophysique/Exercises11.pdf)
-#<> * Lecture 12: [MeNT part 2](/files/Nanophysique/lecture12.pdf)      ... No Exercises!  
+%<> * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)... [Exercises](/files/Nanophysique/Exercises1.pdf)
+%<> * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)	   ... [Exercises](/files/Nanophysique/Exercises2.pdf)
+%<> * Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)	   ... [Exercises](/files/Nanophysique/Exercises3.pdf)
+%<> * Lecture 4: [Crystal Growth](/files/Nanophysique/lecture4.pdf)	   ... [Exercises](/files/Nanophysique/Exercises4.pdf)
+%<> * Lecture 5: [Carbon Structures](/files/Nanophysique/lecture5.pdf)... [Exercises](/files/Nanophysique/Exercises5.pdf)
+%<> * Lecture 6: [DFT: part 1](/files/Nanophysique/lecture6.pdf)      ... [Exercises](/files/Nanophysique/Exercises6.pdf)
+%<> * Lecture 7: [DFT: part 2](/files/Nanophysique/lecture7.pdf)      ... [Exercises](/files/Nanophysique/Exercises7.pdf)
+%<> * Lecture 8: [Fluctuation Theorems](/files/Nanophysique/lecture8.pdf)      ... [Exercises](/files/Nanophysique/Exercises8.pdf)
+%<> * Lecture 9: [Stochastic Descriptions](/files/Nanophysique/lecture9.pdf)      ... [Exercises](/files/Nanophysique/Exercises9.pdf)	
+%<> * Lecture 10: [Proteins](/files/Nanophysique/lecture10.pdf)      ... [Exercises](/files/Nanophysique/Exercises10.pdf)	
+%<> * Lecture 11: [MeNT part 1](/files/Nanophysique/lecture11.pdf)      ... [Exercises](/files/Nanophysique/Exercises11.pdf)
+%<> * Lecture 12: [MeNT part 2](/files/Nanophysique/lecture12.pdf)      ... No Exercises!  
 
 
 
