@@ -8,11 +8,11 @@ date: 2014-01-01
 location: "Brussels, Belgium"
 ---
 
-2019-2020
+2020-2021
 ---------
-Practique: le vendredi 10-12h  
-Theory: le vendredi 14-16h  
-Locale: Campus Plaine, NO 2.N5.107A  
+Practique: le vendredi 10-12h ... to be discussed  
+Theory: le vendredi 12-14h  
+Locale: Online via Teams. 
 
 Materials
 ======
