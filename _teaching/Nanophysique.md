@@ -17,6 +17,7 @@ Locale: Online via Teams.
 Materials
 ======
 * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
+* Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)		
 
 
 
