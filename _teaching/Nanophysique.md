@@ -19,7 +19,7 @@ Materials
 * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
 * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)			[Exercises](/files/Nanophysique/Exercises2.pdf)
 * Lecture 3: [Microscopy, Clusters](/files/Nanophysique/lecture3.pdf)			[Exercises - second part of ch. 2](/files/Nanophysique/Exercises2_bis.pdf) [Exercises - first part of ch. 3](/files/Nanophysique/Exercises3.pdf)
-* Lecture 4: [Clusters](/files/Nanophysique/lecture4.pdf)			[Exercises - second part of ch. 3](/files/Nanophysique/Exercises3_bis.pdf)
+* Lecture 4: [Clusters1](/files/Nanophysique/lecture4.pdf)			[Exercises - second part of ch. 3](/files/Nanophysique/Exercises3_bis.pdf)
 
 
 
