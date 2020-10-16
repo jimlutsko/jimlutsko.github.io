@@ -20,6 +20,7 @@ Materials
 * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)			[Exercises](/files/Nanophysique/Exercises2.pdf)
 * Lecture 3: [Microscopy, Clusters](/files/Nanophysique/lecture3.pdf)			[Exercises - second part of ch. 2](/files/Nanophysique/Exercises2_bis.pdf) [Exercises - first part of ch. 3](/files/Nanophysique/Exercises3.pdf)
 * Lecture 4: [Clusters](/files/Nanophysique/lecture4.pdf)			[Exercises - second part of ch. 3](/files/Nanophysique/Exercises3_bis.pdf)
+* Lecture 5: [Crystal Growth](/files/Nanophysique/lecture5.pdf)			[Exercises](/files/Nanophysique/Exercises4.pdf)
 
 
 
