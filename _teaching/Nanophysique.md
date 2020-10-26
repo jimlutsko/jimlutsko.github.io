@@ -31,6 +31,6 @@ References
 References
 Course materials are taken from many sources. The following are useful but not obligatory for the course:
 * General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.
-* The standard elementrary source on carbon nanotubes: *Physical Properties of Carbon Nanotubes* , R. Saito, G. Dresselhaus and M. S. Dresselhaus, Imperial College Press.
+* The standard elementrary reference for carbon nanotubes: *Physical Properties of Carbon Nanotubes* , R. Saito, G. Dresselhaus and M. S. Dresselhaus, Imperial College Press.
 
 
