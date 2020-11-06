@@ -22,6 +22,7 @@ Materials
 * Lecture 4: [Clusters](/files/Nanophysique/lecture4.pdf)			[Exercises - second part of ch. 3](/files/Nanophysique/Exercises3_bis.pdf)
 * Lecture 5: [Crystal Growth](/files/Nanophysique/lecture5.pdf)			[Exercises](/files/Nanophysique/Exercises4.pdf)
 * Lecture 6: [Carbon Structures](/files/Nanophysique/lecture6.pdf)			[Exercises](/files/Nanophysique/Exercises5.pdf)
+* Lecture 7: [Carbon Structures](/files/Nanophysique/lecture7.pdf)	[DFT](/files/Nanophysique/lecture7_2.pdf)			[Exercises](/files/Nanophysique/Exercises7.pdf)
 
 
 
