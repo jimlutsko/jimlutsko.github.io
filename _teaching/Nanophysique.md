@@ -23,6 +23,7 @@ Materials
 * Lecture 5: [Crystal Growth](/files/Nanophysique/lecture5.pdf)			[Exercises](/files/Nanophysique/Exercises4.pdf)
 * Lecture 6: [Carbon Structures](/files/Nanophysique/lecture6.pdf)			[Exercises](/files/Nanophysique/Exercises5.pdf)
 * Lecture 7: [Carbon Structures](/files/Nanophysique/lecture7.pdf)	[DFT](/files/Nanophysique/lecture7_2.pdf)			[Exercises](/files/Nanophysique/Exercises7.pdf)
+* Lecture 8: [DFT](/files/Nanophysique/lecture8.pdf)	[Exercises](/files/Nanophysique/Exercises8.pdf)
 
 
 
@@ -33,5 +34,8 @@ References
 Course materials are taken from many sources. The following are useful but not obligatory for the course:
 * General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.
 * The standard elementrary reference for carbon nanotubes: *Physical Properties of Carbon Nanotubes* , R. Saito, G. Dresselhaus and M. S. Dresselhaus, Imperial College Press.
+* Good source on basic QM: "Intermediate Quantum Mechanics”, Hans Bethe et Roman Jackiw, 1982.
+* Basic DFT Theorems: P. Hohenberg et W. Kohn, Phys. Rev. B 136, 864 (1964); N. D. Mermin, Phys. Rev. 137, A1441 (1965).
+* Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)
 
 
