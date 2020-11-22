@@ -24,6 +24,7 @@ Materials
 * Lecture 6: [Carbon Structures](/files/Nanophysique/lecture6.pdf)			[Exercises](/files/Nanophysique/Exercises5.pdf)
 * Lecture 7: [Carbon Structures](/files/Nanophysique/lecture7.pdf)	[DFT](/files/Nanophysique/lecture7_2.pdf)			[Exercises](/files/Nanophysique/Exercises7.pdf)
 * Lecture 8: [DFT](/files/Nanophysique/lecture8.pdf)	[Exercises](/files/Nanophysique/Exercises8.pdf)
+* Lecture 8: [DFT](/files/Nanophysique/lecture9.pdf)	[Exercises](/files/Nanophysique/Exercises9.pdf)
 
 
 
