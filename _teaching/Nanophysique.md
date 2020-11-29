@@ -24,10 +24,8 @@ Materials
 * Lecture 6: [Carbon Structures](/files/Nanophysique/lecture6.pdf)			[Exercises](/files/Nanophysique/Exercises5.pdf)
 * Lecture 7: [Carbon Structures](/files/Nanophysique/lecture7.pdf)	[DFT](/files/Nanophysique/lecture7_2.pdf)			[Exercises](/files/Nanophysique/Exercises7.pdf)
 * Lecture 8: [DFT](/files/Nanophysique/lecture8.pdf)	[Exercises](/files/Nanophysique/Exercises8.pdf)
-* Lecture 8: [DFT](/files/Nanophysique/lecture9.pdf)	[Exercises](/files/Nanophysique/Exercises9.pdf)
-
-
-
+* Lecture 9: [DFT](/files/Nanophysique/lecture9.pdf)	[Exercises](/files/Nanophysique/Exercises9.pdf)
+* Lecture 10: [Stochastic Processes](/files/Nanophysique/lecture10.pdf)	and [Proteins](/files/Nanophysique/lecture10_2.pdf) [Exercises](/files/Nanophysique/Exercises10.pdf)
 
 References
 =============
@@ -38,5 +36,6 @@ Course materials are taken from many sources. The following are useful but not o
 * Good source on basic QM: "Intermediate Quantum Mechanics”, Hans Bethe et Roman Jackiw, 1982.
 * Basic DFT Theorems: P. Hohenberg et W. Kohn, Phys. Rev. B 136, 864 (1964); N. D. Mermin, Phys. Rev. 137, A1441 (1965).
 * Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)
+* Stochastic Processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.
 
 
