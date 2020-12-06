@@ -26,6 +26,7 @@ Materials
 * Lecture 8: [DFT](/files/Nanophysique/lecture8.pdf)	[Exercises](/files/Nanophysique/Exercises8.pdf)
 * Lecture 9: [DFT](/files/Nanophysique/lecture9.pdf)	[Exercises](/files/Nanophysique/Exercises9.pdf)
 * Lecture 10: [Stochastic Processes](/files/Nanophysique/lecture10.pdf)	and [Proteins](/files/Nanophysique/lecture10_2.pdf) [Exercises](/files/Nanophysique/Exercises10.pdf)
+* Lecture 11: [Fluctuation Theorems](/files/Nanophysique/lecture11.pdf)	 [Exercises](/files/Nanophysique/Exercises11.pdf)
 
 References
 =============
@@ -37,5 +38,5 @@ Course materials are taken from many sources. The following are useful but not o
 * Basic DFT Theorems: P. Hohenberg et W. Kohn, Phys. Rev. B 136, 864 (1964); N. D. Mermin, Phys. Rev. 137, A1441 (1965).
 * Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)
 * Stochastic Processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.
-
+* Fluctuation Theorems: P. Gaspard, Physica A 369, 201-246 (2006). Also, original papers: R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007); Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001); D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008); D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante, Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies, Nature 437 (8 September 2005) 231.
 
