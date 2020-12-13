@@ -27,7 +27,7 @@ Materials
 * Lecture 9: [DFT](/files/Nanophysique/lecture9.pdf)	[Exercises](/files/Nanophysique/Exercises9.pdf)
 * Lecture 10: [Stochastic Processes](/files/Nanophysique/lecture10.pdf)	and [Proteins](/files/Nanophysique/lecture10_2.pdf) [Exercises](/files/Nanophysique/Exercises10.pdf)
 * Lecture 11: [Fluctuation Theorems](/files/Nanophysique/lecture11.pdf)	 [Exercises](/files/Nanophysique/Exercises11.pdf)
-* Lecture 12: [Fluctuation Theorems](/files/Nanophysique/lecture12.pdf)	 
+* Lecture 12: [Mesoscopic Nucleation Theory](/files/Nanophysique/lecture12.pdf)	 
 
 References
 =============
