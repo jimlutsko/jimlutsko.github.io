@@ -4,14 +4,15 @@ collection: teaching
 type: "Graduate course, Physics, ULB"
 permalink: /teaching/Nanophysique
 venue: "ULB, Campus Plaine, Bat. NO"
+date: 2022-09-24
 location: "Brussels, Belgium"
 ---
 
 2021-2022
 ---------
-Practique: 10-12h Vendredi	
-Theory:    12-14h Vendredi	
-Locale:    C.203 & 2NO.707	
+Practique: 10-12h Vendredi  
+Theory:    12-14h Vendredi  	
+Locale:    C.203 & 2NO.707  	
 
 Materials
 ======
