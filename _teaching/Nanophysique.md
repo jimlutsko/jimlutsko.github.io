@@ -11,8 +11,8 @@ location: "Brussels, Belgium"
 2021-2022
 ---------
 Practique: 10-12h Vendredi  
-Theory:    12-14h Vendredi  	
-Locale:    C.203 & 2NO.707  	
+Theory:    12-14h Vendredi  
+Locale:    C.203 & 2NO.707  
 
 Materials
 ======
