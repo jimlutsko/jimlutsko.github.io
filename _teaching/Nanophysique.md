@@ -18,6 +18,7 @@ Materials
 ======
 * Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
 * Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)      		[Exercises](/files/Nanophysique/Exercises2.pdf)
+* Lecture 2: [Clusters](/files/Nanophysique/lecture3.pdf)      		[Exercises](/files/Nanophysique/Exercises3.pdf)
 
 References
 =============
