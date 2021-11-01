@@ -16,10 +16,10 @@ Locale:    C.203 & 2NO.707
 
 Materials
 ======
-* Lecture 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
-* Lecture 2: [Microscopy](/files/Nanophysique/lecture2.pdf)      		[Exercises](/files/Nanophysique/Exercises2.pdf)
-* Lecture 3: [Clusters](/files/Nanophysique/lecture3.pdf)      		[Exercises](/files/Nanophysique/Exercises3.pdf)
-* Lecture 4: [Clusters](/files/Nanophysique/lecture4.pdf)      		[Exercises](/files/Nanophysique/Exercises3.pdf)
+* Chapter 1: [Overview of course](/files/Nanophysique/lecture1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
+* Chapter 2: [Microscopy](/files/Nanophysique/lecture2.pdf)      		[Exercises](/files/Nanophysique/Exercises2.pdf)
+* Chapter 3: [Clusters](/files/Nanophysique/lecture3.pdf)      		[Exercises](/files/Nanophysique/Exercises3.pdf)
+* Chapter 4: [Crystal Growth](/files/Nanophysique/lecture4.pdf)      		[Exercises](/files/Nanophysique/Exercises4.pdf)
 
 References
 =============
