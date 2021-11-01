@@ -23,10 +23,8 @@ Materials
 
 References
 =============
-References  
-<> Course materials are taken from many sources. The following are useful but not obligatory for the course:  
-<> * General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.  
-<>  
-<> * A reference for much of the material on solid clusters is: [H. P. Bonzel, 3D equilibrium crystal shapes in the new light of STM and AFM, Phys. Rep. 385 (2003) 1-67](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002734)  
+Course materials are taken from many sources. The following are useful but not obligatory for the course:  
+* General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.  
+* A reference for much of the material on solid clusters is: [H. P. Bonzel, 3D equilibrium crystal shapes in the new light of STM and AFM, Phys. Rep. 385 (2003) 1-67](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002734)  
 
 
