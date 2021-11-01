@@ -1,7 +1,7 @@
 ---
 title: "PHYSF475 Nanophysique"
 collection: teaching
-type: "Graduate course, Physics, ULB"
+type: "Masters II, Physics, ULB"
 permalink: /teaching/Nanophysique
 venue: "ULB, Campus Plaine, Bat. NO"
 date: 2022-09-24
