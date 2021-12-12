@@ -42,4 +42,4 @@ Course materials are taken from many sources. The following are useful but not o
 Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,
 Nature 437 (8 September 2005) 231.
 <>
-* Multiscale expansion: Jarzynski, PRL 71, 839 (1993); Servantie et Gaspard, PRL 91 185501 (2003).
+
