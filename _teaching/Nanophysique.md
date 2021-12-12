@@ -34,12 +34,8 @@ Course materials are taken from many sources. The following are useful but not o
 * Good source on basic QM: "Intermediate Quantum Mechanics”, Hans Bethe et Roman Jackiw, 1982.  
 * Basic DFT Theorems: P. Hohenberg et W. Kohn, [Phys. Rev. B 136, 864 (1964)](https://journals.aps.org/pr/abstract/10.1103/PhysRev.136.B864); N. D. Mermin, [Phys. Rev. 137, A1441 (1965)](https://journals.aps.org/pr/abstract/10.1103/PhysRev.137.A1441).  
 * Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)  
-* Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer. 
-<>
-* Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982). 
-<> 
-* Fluctuation Theorems: P. Gaspard, Physica A 369, 201-246 (2006). Also, original papers: R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007); Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001); D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008); D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante,
-Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,
-Nature 437 (8 September 2005) 231.
-<>
+* Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.  
+* Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982).  
+* Fluctuation Theorems: [P. Gaspard, Physica A 369, 201-246 (2006)](http://homepages.ulb.ac.be/~gaspard/G.PhysicaA.06.pdf). Also, original papers: [R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.080602); [Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.3463); [D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.230404); [D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante,Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,Nature 437 (8 September 2005) 231.](https://arxiv.org/abs/cond-mat/0512266)  
+
 
