@@ -23,7 +23,8 @@ Materials
 * Chapter 5: [Carbon Structures](/files/Nanophysique/chapter5.pdf)      		[Exercises](/files/Nanophysique/Exercises5.pdf)  **(UPDATED 15/11/2021)**
 * Chapter 6: [DFT](/files/Nanophysique/chapter6.pdf) **(UPDATED 06/12/2021)** 		[Exercises](/files/Nanophysique/Exercises6.pdf)
 * Chapter 7: [Stochastic processes](/files/Nanophysique/chapter7.pdf) 		[Exercises](/files/Nanophysique/Exercises7.pdf)
-* Chapter 8: [Fluctuation Theorems](/files/Nanophysique/chapter8.pdf) 		[Exercises](/files/Nanophysique/Exercises8.pdf)
+* Chapter 8: [Fluctuation Theorems](/files/Nanophysique/chapter8.pdf) **(UPDATED 19/12/2021)**		[Exercises](/files/Nanophysique/Exercises8.pdf)
+* Chapter 9: [Proteins](/files/Nanophysique/chapter9.pdf) **(UPDATED 19/12/2021)**		
 
 References
 =============
@@ -37,5 +38,6 @@ Course materials are taken from many sources. The following are useful but not o
 * Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.  
 * Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982).  
 * Fluctuation Theorems: [P. Gaspard, Physica A 369, 201-246 (2006)](http://homepages.ulb.ac.be/~gaspard/G.PhysicaA.06.pdf). Also, original papers: [R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.080602) and  [Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.3463) and [D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.230404) and  [D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante,Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,Nature 437 (8 September 2005) 231.](https://arxiv.org/abs/cond-mat/0512266)  
+* Proteins: *Protein condensation*, Gunton, Shiryayev and Pagan, Cambridge, 2007. Also see original papers: [ten Wolde and Frenkel,Science 277, 1975 (1997)](https://www.science.org/doi/10.1126/science.277.5334.1975); [Lutsko and Nicolis, Phys. Rev. Lett.96, 046102 (2006)](/files/Lutsko_PRL_2006_1.pdf); [Lutsko and Nicolis, Soft Matter, 12, 93 (2016)](/files/Lutsko_SoftMatter_2016.pdf); [Lutsko, J. Phys. Cond. Matt., 28, 244020 (2016)](/files/Lutsko_JPCM_2015_1.pdf). 
 
 
