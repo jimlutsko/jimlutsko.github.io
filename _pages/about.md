@@ -40,4 +40,4 @@ My work makes extensive use of classical Density Functional Theory. The codes I 
 
 Contact
 ------------
-I can be reached via email at jlutsko AT ub.ac.be as well as jim AT lutsko.com
+I can be reached via email at jlutsko AT ulb.be as well as jim AT lutsko.com
