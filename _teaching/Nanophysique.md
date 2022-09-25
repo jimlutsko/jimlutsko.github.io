@@ -10,7 +10,7 @@ location: "Brussels, Belgium"
 
 2022-2023
 ---------
-Practique: 10-12h Vendredi  Forum I 2066 
+Practique: 10-12h Vendredi  Forum I 2066  
 Theory:    12-14h Vendredi  Forum I 2058
 
 Materials
