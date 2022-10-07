@@ -16,6 +16,7 @@ Theory:    12-14h Vendredi  Forum I 2058
 Materials
 ======
 * Chapter 1: [Overview of course](/files/Nanophysique/chapter1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
-* Chapter 2: [Microscopie](/files/Nanophysique/chapter2.pdf)		[Exercises](/files/Nanophysique/Exercises2.pdf)
+* Chapter 2: [Microscopie](/files/Nanophysique/chapter2.pdf) (UPDATED!)		[Exercises](/files/Nanophysique/Exercises2.pdf)
+* Chapter 3: [Microscopie](/files/Nanophysique/chapter3.pdf)		[Exercises](/files/Nanophysique/Exercises3.pdf) - only !-7. 
 
 
