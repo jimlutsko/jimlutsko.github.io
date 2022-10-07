@@ -20,3 +20,8 @@ Materials
 * Chapter 3: [Microscopie](/files/Nanophysique/chapter3.pdf)		[Exercises](/files/Nanophysique/Exercises3.pdf) - only !-7. 
 
 
+References
+=============
+Course materials are taken from many sources. The following are useful but not obligatory for the course:  
+* General reference covering many topics from the course: *Les nanosciences 1. Nanotechnologies and nanophysique*, Marcel Lahmani, Claire Dupas and Philippe Houday, 3e edition revue et augmentee, Belin.  
+
