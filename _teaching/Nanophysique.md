@@ -17,7 +17,8 @@ Materials
 ======
 * Chapter 1: [Overview of course](/files/Nanophysique/chapter1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
 * Chapter 2: [Microscopie](/files/Nanophysique/chapter2.pdf) (UPDATED!)		[Exercises](/files/Nanophysique/Exercises2.pdf)
-* Chapter 3: [Microscopie](/files/Nanophysique/chapter3.pdf) (UPDATED!)	[Exercises](/files/Nanophysique/Exercises3.pdf) - continue with 8-12. 
+* Chapter 3: [Clusters](/files/Nanophysique/chapter3.pdf) (UPDATED!)	[Exercises](/files/Nanophysique/Exercises3.pdf) - continue with 8-12. 
+* Chapter 4: [Crystal Growth](/files/Nanophysique/chapter4.pdf) 	[Exercises](/files/Nanophysique/Exercises4.pdf) - Exercises 1-4
 
 
 References
