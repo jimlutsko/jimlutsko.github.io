@@ -19,7 +19,7 @@ Materials
 * Chapter 2: [Microscopie](/files/Nanophysique/chapter2.pdf) (UPDATED!)		[Exercises](/files/Nanophysique/Exercises2.pdf)
 * Chapter 3: [Clusters](/files/Nanophysique/chapter3.pdf) (UPDATED!)	[Exercises](/files/Nanophysique/Exercises3.pdf) - All exercises
 * Chapter 4: [Crystal Growth](/files/Nanophysique/chapter4.pdf) 	[Exercises](/files/Nanophysique/Exercises4.pdf) - All exercises
-* Chapter 5: [Carbon Structures](/files/Nanophysique/chapter5.pdf) 	[Exercises](/files/Nanophysique/Exercises5.pdf) - Exercises 1-4.
+* Chapter 5: [Carbon Structures](/files/Nanophysique/chapter5.pdf) (UPDATED 08/11) 	[Exercises](/files/Nanophysique/Exercises5.pdf) - Exercises ALL.
 
 
 References
