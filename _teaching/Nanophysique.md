@@ -20,7 +20,8 @@ Materials
 * Chapter 3: [Clusters](/files/Nanophysique/chapter3.pdf) (UPDATED!)	[Exercises](/files/Nanophysique/Exercises3.pdf) - All exercises
 * Chapter 4: [Crystal Growth](/files/Nanophysique/chapter4.pdf) 	[Exercises](/files/Nanophysique/Exercises4.pdf) - All exercises
 * Chapter 5: [Carbon Structures](/files/Nanophysique/chapter5.pdf) (UPDATED 08/11) 	[Exercises](/files/Nanophysique/Exercises5.pdf) - Exercises ALL.
-* Chapter 6: [Density Functional Theory](/files/Nanophysique/chapter6.pdf) (UPDATED 04/12)  	[Exercises](/files/Nanophysique/Exercises6.pdf) (Updated 04/12)
+* Chapter 6: [Density Functional Theory](/files/Nanophysique/chapter6.pdf) (UPDATED 04/12)  	[Exercises](/files/Nanophysique/Exercises6.pdf) (Updated 04/12
+* Chapter 7: [Stochastic Processes](/files/Nanophysique/chapter7.pdf)  	[Exercises](/files/Nanophysique/Exercises7.pdf) 
 
 
 References
@@ -32,6 +33,8 @@ Course materials are taken from many sources. The following are useful but not o
 * Good source on basic QM: "Intermediate Quantum Mechanics”, Hans Bethe et Roman Jackiw, 1982.  
 * Basic DFT Theorems: P. Hohenberg et W. Kohn, [Phys. Rev. B 136, 864 (1964)](https://journals.aps.org/pr/abstract/10.1103/PhysRev.136.B864); N. D. Mermin, [Phys. Rev. 137, A1441 (1965)](https://journals.aps.org/pr/abstract/10.1103/PhysRev.137.A1441).  
 * Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)  
+* Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.  
+* Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982).  
 
 
 
