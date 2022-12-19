@@ -20,8 +20,9 @@ Materials
 * Chapter 3: [Clusters](/files/Nanophysique/chapter3.pdf) (UPDATED!)	[Exercises](/files/Nanophysique/Exercises3.pdf) - All exercises
 * Chapter 4: [Crystal Growth](/files/Nanophysique/chapter4.pdf) 	[Exercises](/files/Nanophysique/Exercises4.pdf) - All exercises
 * Chapter 5: [Carbon Structures](/files/Nanophysique/chapter5.pdf) (UPDATED 08/11) 	[Exercises](/files/Nanophysique/Exercises5.pdf) - Exercises ALL.
-* Chapter 6: [Density Functional Theory](/files/Nanophysique/chapter6.pdf) (UPDATED 04/12)  	[Exercises](/files/Nanophysique/Exercises6.pdf) (Updated 04/12
+* Chapter 6: [Density Functional Theory](/files/Nanophysique/chapter6.pdf) (UPDATED 04/12)  	[Exercises](/files/Nanophysique/Exercises6.pdf) (Updated 04/12)
 * Chapter 7: [Stochastic Processes](/files/Nanophysique/chapter7.pdf)  	[Exercises](/files/Nanophysique/Exercises7.pdf) 
+* Chapter 8: [Fluctuation Theorems](/files/Nanophysique/chapter8.pdf)  	**No exercises!**
 
 
 References
@@ -35,7 +36,7 @@ Course materials are taken from many sources. The following are useful but not o
 * Classical DFT review: [Lutsko, Adv. Chem. Phys. 144, 1-91 (2010)](http://www.lutsko.com/publication/00076)  
 * Theory of stochastic processes: *Handbook of stochastic methods* , C. W. Gardiner, Springer.  
 * Projection operators: *Projection operator techniques in nonequilibrium statistical mechanics*, H. Grabert, Springer-Verlag (1982).  
-
+* Fluctuation Theorems: [P. Gaspard, Physica A 369, 201-246 (2006)](http://homepages.ulb.ac.be/~gaspard/G.PhysicaA.06.pdf). Also, original papers: [R. Kawai, J.M.R. Parrondo, & C. Van den Broeck, Phys. Rev. Lett. 98, 080602 (2007)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.080602) and  [Hatano T and Sasa S, Phys. Rev. Lett. 86, 3463 (2001)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.3463) and [D. Andrieux and P. Gaspard, Phys. Rev. Lett. 100, 230404 (2008)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.230404) and  [D. Collin, F.Ritort, C. Jarzynski, S. B. Smith, I. Tinoco Jr. & C. Bustamante,Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies,Nature 437 (8 September 2005) 231.](https://arxiv.org/abs/cond-mat/0512266)  
 
 
 
