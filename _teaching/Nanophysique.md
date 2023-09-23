@@ -10,7 +10,7 @@ location: "Brussels, Belgium"
 
 2023-2024
 ---------
-Practique:    10-12h Vendredi  A2 220
+Practique:    10-12h Vendredi  A2 220  
 Theory: 12-14h Vendredi  2NO 407
 
 
