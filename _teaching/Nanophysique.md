@@ -17,6 +17,7 @@ Theory: 12-14h Vendredi  2NO 407
 Materials
 ======
 * Chapter 1: [Overview of course](/files/Nanophysique/chapter1.pdf)		[Exercises](/files/Nanophysique/Exercises1.pdf)
+* Chapter 2: [Overview of course](/files/Nanophysique/chapter2.pdf)		[Exercises](/files/Nanophysique/Exercises2.pdf)
 
 
 References
